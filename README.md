@@ -16,3 +16,5 @@ model to classify the music genre.
 #### 4. Dataset Preprocessing
 #### 5. Model Evaluation
 #### 6. Performance Measurement
+
+**Kaggle Link:** https://www.kaggle.com/code/samyabose/music-genre-classification-using-neural-networks
